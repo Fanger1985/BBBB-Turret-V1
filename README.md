@@ -1,7 +1,9 @@
 INADAZE BBBB Turret by Bruce Fanger - All INADAZE - BB1-zero BB Cannon/Turret http://www.thefanger.com http://www.allinadaze.com
 
 Overview
-Welcome to the INADAZE BBBB Turret project! This badass turret system is equipped with a laser, pan and tilt servos, and a trigger mechanism, all controlled via an ESP32 with a web-based control panel. Whether you're aiming to protect your turf or just have some fun, this project has you covered.
+Welcome to the INADAZE BBBB Turret project! Utilizing 3D Print from thingyverse by Smur ( print at https://www.thingiverse.com/thing:3271381 ) 
+
+This badass turret system is equipped with a laser, pan and tilt servos, and a trigger mechanism, all controlled via an ESP32 with a web-based control panel. Whether you're aiming to protect your turf or just have some fun, this project has you covered.
 
 Features
 Pan and Tilt Control: Precisely control the pan and tilt servos to adjust the turret's aim.
